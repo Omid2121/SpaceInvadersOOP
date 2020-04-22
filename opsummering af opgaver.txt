@@ -1,0 +1,4 @@
+1.Jeg starter med at samle information om space invaders og OOP i unity.
+målet er at lære så meget som jeg kan for at gøre mit space invaders-spil ved hjælp af OOP.
+https://www.youtube.com/watch?v=B1gQp5li3nY 
+https://www.youtube.com/watch?v=syJV-i3JRmw&t=429s
