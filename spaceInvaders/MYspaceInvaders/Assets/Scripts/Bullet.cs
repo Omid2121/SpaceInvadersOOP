@@ -5,6 +5,11 @@ using UnityEngine.UI;
 
 public class Bullet : MonoBehaviour
 {
+    
+    
+    
+    
+
     public float speed = 30;
 
     private Rigidbody2D rigidBody;

@@ -236,6 +236,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &24342094
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -536,6 +542,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &183262687
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -686,6 +698,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &201500041
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1146,6 +1164,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &345416770
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2115,6 +2139,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &810073107
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2718,6 +2748,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1131319851
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2783,6 +2819,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1151873222
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2839,9 +2881,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1169662815}
-  m_Layer: 0
+  m_Layer: 11
   m_Name: Aliens
-  m_TagString: Untagged
+  m_TagString: Alien
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2896,6 +2938,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1180696396
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3190,6 +3238,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1279131840
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3640,6 +3694,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1402042396
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3811,6 +3871,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1418487858
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3951,6 +4017,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1446487139
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4496,6 +4568,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1607148310
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4800,6 +4878,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1738049174
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -4865,6 +4949,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1769430006
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5156,6 +5246,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1860361064
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5381,6 +5477,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &1915524186
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5865,6 +5967,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12d2e7557161153409a9b888fe5123dd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 10
+  secBeforeSpriteChange: 0.5
+  alienBullet: {fileID: 0}
+  minFireRateTime: 1
+  maxFireRateTime: 3
+  baseFireWaitTime: 3
 --- !u!61 &2137058378
 BoxCollider2D:
   m_ObjectHideFlags: 0
