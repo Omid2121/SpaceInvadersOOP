@@ -8,7 +8,7 @@ public class SpaceShip : MonoBehaviour
 
     public GameObject theBullet;
 
-     void FixedUpdate()
+    void FixedUpdate()
     {
         float horzMove = Input.GetAxisRaw("Horizontal");
 
