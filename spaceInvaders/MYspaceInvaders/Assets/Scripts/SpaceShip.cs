@@ -4,9 +4,16 @@ using UnityEngine;
 
 public class SpaceShip : MonoBehaviour
 {
+    public int maxHealth = 100;
+    public int currentHealth;
     public float speed = 30;
 
     public GameObject theBullet;
+
+    void Start()
+    {
+        currentHealth = maxHealth;
+    }
 
     void FixedUpdate()
     {

@@ -3,5 +3,8 @@ målet er at lære så meget som jeg kan for at gøre mit space invaders-spil ved hj
 https://www.youtube.com/watch?v=B1gQp5li3nY 
 https://www.youtube.com/watch?v=syJV-i3JRmw&t=429s
 
-jeg har lærst https://medium.com/@zachcaceres/notes-for-noobs-object-oriented-basics-for-unity3d-d98685235ebb
+2.jeg har læst https://medium.com/@zachcaceres/notes-for-noobs-object-oriented-basics-for-unity3d-d98685235ebb
 og "Mastering Unity Scripting" https://subscription.packtpub.com/book/game_development/9781784390655/1/ch01lvl1sec17/classes-and-object-oriented-programming
+
+3. jeg begynd med læs om Nedarvning Objekt Orienteret Programmering (Inheritance) på https://www.geeksforgeeks.org/c-sharp-inheritance/  
+og  https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance også set denne video https://www.youtube.com/watch?v=o7UtOI0ROfs som handler om Inheritance og Polymorphism.
