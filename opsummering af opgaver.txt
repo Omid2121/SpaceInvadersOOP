@@ -8,3 +8,4 @@ og "Mastering Unity Scripting" https://subscription.packtpub.com/book/game_devel
 
 3. jeg begynd med læs om Nedarvning Objekt Orienteret Programmering (Inheritance) på https://www.geeksforgeeks.org/c-sharp-inheritance/  
 og  https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/inheritance også set denne video https://www.youtube.com/watch?v=o7UtOI0ROfs som handler om Inheritance og Polymorphism.
+forskel mellem de to https://www.youtube.com/watch?v=4F72VULWFvc  og  https://stackoverflow.com/questions/6308178/what-is-the-main-difference-between-inheritance-and-polymorphism

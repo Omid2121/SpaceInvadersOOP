@@ -14,7 +14,6 @@ public class Alien : MonoBehaviour
     public float baseFireWaitTime = 3.0f;
     
 
-
     // Start is called before the first frame update
     void Start()
     {
@@ -59,7 +58,6 @@ public class Alien : MonoBehaviour
         {
             Destroy(gameObject);
         }
-
     }
 
     void FixedUpdate()
@@ -80,7 +78,5 @@ public class Alien : MonoBehaviour
             DestroyObject(col.gameObject, 0.5f);
         }
     }
-
-
 
 }

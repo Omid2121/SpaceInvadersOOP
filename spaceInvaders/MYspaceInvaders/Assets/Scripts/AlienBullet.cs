@@ -40,7 +40,7 @@ public class AlienBullet : MonoBehaviour
 
     }
 
-     void OnBecameInvisible()
+    void OnBecameInvisible()
     {
         Destroy(gameObject);
     }
